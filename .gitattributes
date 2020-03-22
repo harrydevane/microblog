@@ -1,0 +1,4 @@
+* linguist-vendored
+application/controllers/* -linguist-vendored
+application/models/* -linguist-vendored
+application/views/* -linguist-vendored
